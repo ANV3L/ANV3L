@@ -68,3 +68,16 @@
     <img src="https://img.shields.io/badge/Go%20to%20project-Graph__filesystem-white?style=for-the-badge&logo=github&logoColor=white" alt="Go to project" />
   </a>
 </p>
+
+
+## Education
+
+### University
+**[National Research Nuclear University MEPhI](https://roundranking.com/universities/national-research-nuclear-university-mephi-moscow-engineering-physics-institute.html?year=2024&subj=7&dimens=T&1766260446839&1766260446839)**
+- 2nd-year Computer Science student
+
+### Mathematical Background
+- **Mathematical Analysis**: Calculus, multiple integrals, line integrals (1st and 2nd kind), etc.
+- **Linear Algebra & Analytic Geometry**
+- **Discrete Mathematics**: Combinatorics, Graph Theory, etc.
+
