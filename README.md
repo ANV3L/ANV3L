@@ -6,7 +6,7 @@
 
 ---
 
-<h4 align="center">Languages & Paradigms</h4>
+<p align="center"><strong>Languages & Paradigms</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-0B1120?style=flat-square&logo=cplusplus&logoColor=FFFFFF" />
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Algorithms%20%26%20DS-065F46?style=flat-square&logo=codeforces&logoColor=FFFFFF" />
 </p>
 
-<h4 align="center">Tools & Technologies</h4>
+<p align="center"><strong>Tools & Technologies</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-020617?style=flat-square&logo=linux&logoColor=FFFFFF" />
@@ -25,11 +25,7 @@
   <img src="https://img.shields.io/badge/System%20Internals-0F172A?style=flat-square&logo=linux&logoColor=22C55E" />
 </p>
 
-<p align="center">
-  <sub><em>System internals:</em> compilation pipeline, binary representation, memory layout, calling conventions, low-level debugging.</sub>
-</p>
-
-<h4 align="center">Frameworks & Libraries</h4>
+<p align="center"><strong>Frameworks & Libraries</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Qt-022C22?style=flat-square&logo=qt&logoColor=41CD52" />
@@ -37,12 +33,16 @@
   <img src="https://img.shields.io/badge/Custom%20STL%20-0B1120?style=flat-square&logo=data&logoColor=22C55E" />
 </p>
 
-<h4 align="center">Architecture & Patterns</h4>
+<p align="center"><strong>Architecture & Patterns</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MVC/MVVM%20Architecture-111827?style=flat-square&logo=buffer&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Plugin%20Command%20System-022C22?style=flat-square&logo=plug&logoColor=22C55E" />
   <img src="https://img.shields.io/badge/Graph%20Visualization-020617?style=flat-square&logo=graphql&logoColor=34D399" />
+</p>
+
+<p align="center">
+  <sub><em>System internals:</em> compilation pipeline, binary representation, memory layout, calling conventions, low-level debugging.</sub>
 </p>
 
 
