@@ -6,44 +6,48 @@
 
 ---
 
-<p align="center"><strong>Languages & Paradigms</strong></p>
 
+<p align="center"><strong>Programming languages</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-0B1120?style=flat-square&logo=cplusplus&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/C-111827?style=flat-square&logo=c&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/OOP-16A34A?style=flat-square&logo=abstract&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Algorithms%20%26%20DS-065F46?style=flat-square&logo=codeforces&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=111827" />
 </p>
 
-<p align="center"><strong>Tools & Technologies</strong></p>
-
+<p align="center"><strong>Also know on basic level</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-020617?style=flat-square&logo=linux&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/CMake-022C22?style=flat-square&logo=cmake&logoColor=34D399" />
-  <img src="https://img.shields.io/badge/GoogleTest-14532D?style=flat-square&logo=googletest&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Multithreading-064E3B?style=flat-square&logo=thread&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/System%20Internals-0F172A?style=flat-square&logo=linux&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111827" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=FFFFFF" />
 </p>
 
-<p align="center"><strong>Frameworks & Libraries</strong></p>
-
+<p align="center"><strong>Concepts & paradigms</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Qt-022C22?style=flat-square&logo=qt&logoColor=41CD52" />
-  <img src="https://img.shields.io/badge/STL-020617?style=flat-square&logo=cplusplus&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Custom%20STL%20-0B1120?style=flat-square&logo=data&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/OOP-16A34A?style=flat&logo=abstract&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Multithreading-0F766E?style=flat&logo=thread&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Algorithms_%26_Data_Structures-15803D?style=flat&logo=codeforces&logoColor=FFFFFF" />
 </p>
 
-<p align="center"><strong>Architecture & Patterns</strong></p>
-
+<p align="center"><strong>Frameworks & libraries</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/MVC/MVVM%20Architecture-111827?style=flat-square&logo=buffer&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Plugin%20Command%20System-022C22?style=flat-square&logo=plug&logoColor=22C55E" />
-  <img src="https://img.shields.io/badge/Graph%20Visualization-020617?style=flat-square&logo=graphql&logoColor=34D399" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=111827" />
+  <img src="https://img.shields.io/badge/GoogleTest-34A853?style=flat&logo=googletest&logoColor=FFFFFF" />
 </p>
 
+<p align="center"><strong>System & build</strong></p>
 <p align="center">
-  <sub><em>System internals:</em> compilation pipeline, binary representation, memory layout, calling conventions, low-level debugging.</sub>
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=111827" />
 </p>
+
+
+
+<p align="center">
+  <sub><em>Additional skills:</em> compilation pipeline, binary representation, memory layout, calling conventions, low-level debugging.</sub>
+</p>
+
 
 
 ##  My Projects
