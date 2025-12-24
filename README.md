@@ -6,43 +6,40 @@
 
 ---
 
-
 <p align="center"><strong>Programming languages</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=111827" />
+  <img src="https://img.shields.io/badge/C++-0B1120?style=flat&logo=cplusplus&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/C-0B1120?style=flat&logo=c&logoColor=A8B9CC" />
 </p>
 
 <p align="center"><strong>Also know on basic level</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111827" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Go-0B1120?style=flat&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/Python-0B1120?style=flat&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/JavaScript-0B1120?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML-0B1120?style=flat&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS-0B1120?style=flat&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Bash-0B1120?style=flat&logo=gnubash&logoColor=4EAA25" />
 </p>
 
 <p align="center"><strong>Concepts & paradigms</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/OOP-16A34A?style=flat&logo=abstract&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Multithreading-0F766E?style=flat&logo=thread&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Algorithms_%26_Data_Structures-15803D?style=flat&logo=codeforces&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/OOP-0B1120?style=flat&logo=abstract&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/Multithreading-0B1120?style=flat&logo=thread&logoColor=14B8A6" />
+  <img src="https://img.shields.io/badge/Algorithms_%26_Data_Structures-0B1120?style=flat&logo=codeforces&logoColor=FFFFFF" />
 </p>
 
 <p align="center"><strong>Frameworks & libraries</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=111827" />
-  <img src="https://img.shields.io/badge/GoogleTest-34A853?style=flat&logo=googletest&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Qt-0B1120?style=flat&logo=qt&logoColor=41CD52" />
+  <img src="https://img.shields.io/badge/GoogleTest-0B1120?style=flat&logo=googletest&logoColor=34A853" />
 </p>
 
 <p align="center"><strong>System & build</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=111827" />
+  <img src="https://img.shields.io/badge/CMake-0B1120?style=flat&logo=cmake&logoColor=064F8C" />
+  <img src="https://img.shields.io/badge/Linux-0B1120?style=flat&logo=linux&logoColor=FCC624" />
 </p>
-
-
 
 <p align="center">
   <sub><em>Additional skills:</em> compilation pipeline, binary representation, memory layout, calling conventions, low-level debugging.</sub>
