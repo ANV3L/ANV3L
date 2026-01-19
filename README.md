@@ -1,6 +1,6 @@
 
 ---
-- Backend + ML
+- Backend
 - Advanced mathematics knowledges
 - English level: <strong>B2</strong>
 
