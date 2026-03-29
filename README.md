@@ -1,48 +1,16 @@
-
+markdown
 ---
-- Backend
-- Advanced mathematics knowledges
+- Advanced mathematics
+- Knowledge of computer architecture
 - English level: <strong>B2</strong>
 
 ---
 
 <p align="center"><strong>Programming languages</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0B1120?style=flat&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/C++-0B1120?style=flat&logo=cplusplus&logoColor=00599C" />
-</p>
-
-<p align="center"><strong>Also know on basic level</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-0B1120?style=flat&logo=go&logoColor=00ADD8" />
-  <img src="https://img.shields.io/badge/JavaScript-0B1120?style=flat&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML-0B1120?style=flat&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/C-0B1120?style=flat&logo=c&logoColor=A8B9CC" />
-  <img src="https://img.shields.io/badge/CSS-0B1120?style=flat&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/Bash-0B1120?style=flat&logo=gnubash&logoColor=4EAA25" />
-</p>
-
-<p align="center"><strong>Concepts & paradigms</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/OOP-0B1120?style=flat&logo=abstract&logoColor=22C55E" />
-  <img src="https://img.shields.io/badge/Multithreading-0B1120?style=flat&logo=thread&logoColor=14B8A6" />
-  <img src="https://img.shields.io/badge/Algorithms_%26_Data_Structures-0B1120?style=flat&logo=codeforces&logoColor=FFFFFF" />
-</p>
-
-<p align="center"><strong>Frameworks & libraries</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Qt-0B1120?style=flat&logo=qt&logoColor=41CD52" />
-  <img src="https://img.shields.io/badge/GoogleTest-0B1120?style=flat&logo=googletest&logoColor=34A853" />
-</p>
-
-<p align="center"><strong>System & build</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/CMake-0B1120?style=flat&logo=cmake&logoColor=064F8C" />
-  <img src="https://img.shields.io/badge/Linux-0B1120?style=flat&logo=linux&logoColor=FCC624" />
-</p>
-
-<p align="center">
-  <sub><em>Additional skills:</em> compilation pipeline, binary representation, memory layout, calling conventions, low-level debugging.</sub>
+  <img src="https://img.shields.io/badge/Java-0B1120?style=flat&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/Python-0B1120?style=flat&logo=python&logoColor=3776AB" />
 </p>
 
 
@@ -51,14 +19,9 @@
 
 ### Graph Filesystem 20.12.2025
 
-
 <p align="center">
-  <em>Visual file system explorer built on graphs, with physics-based node interaction, custom STL-like containers and an MVC architecture.</em>
+  <em>Visual file system explorer built on C++ using MVC architecture and OOP paradigm.</em>
 </p>
-<p align="center">
-  <sub><em>Architecture:</em> Qt-based MVC app with a plugin command system, custom AVL-backed container and physics-driven graph UI.</sub>
-</p>
-
 
 <p align="center">
   <img src="https://github.com/ANV3L/Graph_filesystem/raw/main/screenshots/flower.jpg" alt="Graph Filesystem Preview" width="600" />
@@ -78,7 +41,7 @@
 - 2nd-year Computer Science student
 
 ### Mathematical Background
-- **Mathematical Analysis**: Calculus, multiple integrals, line integrals (1st and 2nd kind), etc.
-- **Linear Algebra & Analytic Geometry**
-- **Discrete Mathematics**: Combinatorics, Graph Theory, etc.
-
+- Mathematical Analysis
+- Linear Algebra and Analytic Geometry
+- Discrete Mathematics
+- Probability Theory and Mathematical Statistics
