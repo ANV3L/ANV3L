@@ -8,16 +8,16 @@
 
 <p align="center"><strong>Programming languages</strong></p>
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-0B1120?style=flat&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/C++-0B1120?style=flat&logo=cplusplus&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/C-0B1120?style=flat&logo=c&logoColor=A8B9CC" />
 </p>
 
 <p align="center"><strong>Also know on basic level</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Go-0B1120?style=flat&logo=go&logoColor=00ADD8" />
-  <img src="https://img.shields.io/badge/Python-0B1120?style=flat&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/JavaScript-0B1120?style=flat&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/HTML-0B1120?style=flat&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/C-0B1120?style=flat&logo=c&logoColor=A8B9CC" />
   <img src="https://img.shields.io/badge/CSS-0B1120?style=flat&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/Bash-0B1120?style=flat&logo=gnubash&logoColor=4EAA25" />
 </p>
