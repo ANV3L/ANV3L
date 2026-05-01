@@ -29,7 +29,7 @@ markdown
 
 <p align="center">
   <a href="https://github.com/ANV3L/F1_WWW">
-    <img src="https://img.shields.io/badge/Go%20to%20project-Graph__filesystem-white?style=for-the-badge&logo=github&logoColor=white" alt="Go to project" />
+    <img src="https://img.shields.io/badge/Go%20to%20project-F1__WWW-white?style=for-the-badge&logo=github&logoColor=white" alt="Go to project" />
   </a>
 </p>
 
