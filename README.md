@@ -17,21 +17,18 @@ markdown
 
 ##  My Projects
 
-### Formula 1 rase position prediction
+### Library of regular expressions
 
 <p align="center">
-  <em>Модель для предсказания позиции гонщика Формулы 1</em>
+  <em>Expression Library (Automata Theory)</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/ANV3L/F1_WWW/blob/main/reports/final_report/visual_summary.png" alt="Graph Filesystem Preview" width="600" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ANV3L/F1_WWW">
-    <img src="https://img.shields.io/badge/Go%20to%20project-F1__WWW-white?style=for-the-badge&logo=github&logoColor=white" alt="Go to project" />
+  <a href="https://github.com/ANV3L/RegEx_lib">
+    <img src="https://img.shields.io/badge/Go%20to%20project-Regex_lib-white?style=for-the-badge&logo=github&logoColor=white" alt="Go to project" />
   </a>
 </p>
+
 
 ### Graph Filesystem 20.12.2025
 
